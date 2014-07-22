@@ -1,15 +1,14 @@
 RubyClass
 =========
 
-### Mac
+### 課程大綱
 
-1. 進行 Mac 系統更新到最新
-2. 從 Apple Store 上取得 Xcode 安裝(內建 Command Tools )
+1. Object 物件簡介
+2. String 字串
+3. Iterator (with a little block)
+4. Array 陣列 (maybe with Hash) 
+5. Method 方法
+6. Class 類別
+7. I/O input/output
+Final Project: 程式裡輸入台灣中文地址，翻成英文的並有3+2的郵遞區號
 
-### Windows
-
-下載 http://rubyinstaller.org
-
-### Ubuntu
-1. 先裝curl
-2. 再執行 \curl -L https://get.rvm.io | bash -s stable --ruby
