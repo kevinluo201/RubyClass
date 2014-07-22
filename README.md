@@ -9,6 +9,6 @@ RubyClass
 4. Array 陣列 (maybe with Hash) 
 5. Method 方法
 6. Class 類別
-7. I/O input/output
-Final Project: 程式裡輸入台灣中文地址，翻成英文的並有3+2的郵遞區號
+7. I/O input/output <br>
 
+- Final Project: 程式裡輸入台灣中文地址，翻成英文的並有3+2的郵遞區號
